@@ -1,7 +1,7 @@
-name: logging_wrapper_loggerx
+name: flutter_library_logging_wrapper_loggerx
 description: Loggerx logger for logging_wrapper plugin.
 version: 0.0.1
-repository: https://github.com/thzero/logging_wrapper_loggerx
+repository: https://github.com/thzero/flutter_library_logging_wrapper_loggerx
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -10,16 +10,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  logging_wrapper: 
-    # path: ../logging_wrapper
+  flutter_library_logging_wrapper: 
+    # path: ../flutter_library_logging
     git:
-      url: https://github.com/thzero/logging_wrapper
-  loggerx: ^1.3.4
+      url: https://github.com/thzero/flutter_library_logging_wrapper
+  loggerx: ^1.3.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: ^2.1.4
+  build_runner: ^2.2.0
   flutter_lints: ^1.0.0
 
 # For information on the generic Dart part of this file, see the

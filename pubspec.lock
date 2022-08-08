@@ -49,14 +49,14 @@ packages:
       name: build_config
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.1.0"
   build_daemon:
     dependency: transitive
     description:
       name: build_daemon
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.1"
+    version: "3.1.0"
   build_resolvers:
     dependency: transitive
     description:
@@ -70,7 +70,7 @@ packages:
       name: build_runner
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.5"
+    version: "2.2.0"
   build_runner_core:
     dependency: transitive
     description:
@@ -188,6 +188,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_library_logging_wrapper:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: e64fdf1a82edb9fbf55060d9d87cc76c2ac4421a
+      url: "https://github.com/thzero/flutter_library_logging_wrapper"
+    source: git
+    version: "0.0.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -262,7 +271,7 @@ packages:
       name: json_annotation
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.3.0"
+    version: "4.6.0"
   lints:
     dependency: transitive
     description:
@@ -276,7 +285,7 @@ packages:
       name: loggerx
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.3.4"
+    version: "1.3.5"
   logging:
     dependency: transitive
     description:
@@ -284,15 +293,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.2"
-  logging_wrapper:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "88ea6faa3e633f3a469fae026843522e0066718f"
-      url: "https://github.com/thzero/logging_wrapper"
-    source: git
-    version: "0.0.1"
   matcher:
     dependency: transitive
     description:
