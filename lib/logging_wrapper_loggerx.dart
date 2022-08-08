@@ -2,7 +2,7 @@ library logging_wrapper_loggerx;
 
 import 'package:loggerx/loggerx.dart';
 
-import 'package:flutter_library_logging_wrapper/logger_base.dart';
+import 'package:flutterd_logging_wrapper/logger_base.dart';
 
 class LoggerLoggerx extends LoggerBase {
   final logger = Logger('default');
