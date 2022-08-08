@@ -1,4 +1,4 @@
-A logger for the flutterd_logging_wrapper package for Flutter.
+A logger for the flutterd_logging_wrapper package for Flutter. This logging library is used by the opinionated [Fluttered](<https://github.com/thzero/flutterd>) (https://github.com/thzero/flutterd) library for Flutter.
 
 ## Capabilities
 
