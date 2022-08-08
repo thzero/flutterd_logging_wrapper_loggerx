@@ -188,15 +188,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_library_logging_wrapper:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: HEAD
-      resolved-ref: e64fdf1a82edb9fbf55060d9d87cc76c2ac4421a
-      url: "https://github.com/thzero/flutter_library_logging_wrapper"
-    source: git
-    version: "0.0.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -209,6 +200,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutterd_logging_wrapper:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "21166a46619f4992738e007ccd89feb385c7451c"
+      url: "https://github.com/thzero/flutterd_logging_wrapper"
+    source: git
+    version: "0.0.1"
   frontend_server_client:
     dependency: transitive
     description:

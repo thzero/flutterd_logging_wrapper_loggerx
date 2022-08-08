@@ -1,4 +1,4 @@
-A logger for the flutter_library_logging_wrapper package for Flutter.
+A logger for the flutterd_logging_wrapper package for Flutter.
 
 ## Capabilities
 
