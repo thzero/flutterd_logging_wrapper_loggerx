@@ -14,8 +14,11 @@ dependencies:
     # path: ../flutterd_logging_wrapper
     git:
       url: https://github.com/thzero/flutterd_logging_wrapper
-  # loggerx: ^2.0.0
-  loggerx: ^2.0.0
+  #loggerx: ^2.0.0  - deprecated by original author
+  loggerx: 
+    # path: ../loggerx
+    git:
+      url: https://github.com/thzero/loggerx
 
 dev_dependencies:
   flutter_test:
